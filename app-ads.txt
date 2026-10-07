@@ -1,2 +1,2 @@
 # Authorized ad sellers for apps by Michael Kim.
-# The Google AdMob line is added once the AdMob publisher ID exists.
+google.com, pub-9468551609550182, DIRECT, f08c47fec0942fa0
